@@ -13,8 +13,9 @@ https://www.linkedin.com/in/samatahir/
 >
 > Each project focuses on practical blue team skills: threat detection, log
 > analysis, SIEM engineering, MITRE ATT&CK mapping, and SOC-style incident
-> reporting. The goal is to demonstrate how a Tier 1 SOC analyst investigates,
-> detects, and documents security events in enterprise environments.
+> reporting. The goal is to demonstrate how I would investigate,
+> detect, and document security events in enterprise environments.
+
 
 ---
 
