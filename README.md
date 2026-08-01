@@ -8,13 +8,13 @@ https://www.linkedin.com/in/samatahir/
 
 > **Portfolio Note**
 >
-> The projects in this portfolio simulate real-world SOC analyst workflows —
+> The projects in this portfolio simulate real-world SOC analyst workflows—
 > from initial alert triage through full incident documentation.
 >
 > Each of my project focuses on practical blue team skills: threat detection, log
 > analysis, SIEM engineering, MITRE ATT&CK mapping, and SOC-style incident
 > reporting. The goal is to demonstrate how I would investigate,
-> detect, and document security events in enterprise environments.
+> detect,and document security events in enterprise environments.
 
 
 ---
