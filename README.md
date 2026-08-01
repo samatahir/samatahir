@@ -1,6 +1,6 @@
 # Sama Tahir
 
-*SOC Analyst | Detection Engineering | Incident Response*
+*Cybersecurity Analyst | Detection Engineering | Incident Response*
 
 https://www.linkedin.com/in/samatahir/ 
 
