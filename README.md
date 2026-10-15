@@ -1,65 +1,72 @@
 # Sama Tahir
-
 *Cybersecurity Analyst | Incident Response*
 
-https://www.linkedin.com/in/samatahir/ 
+[LinkedIn](https://www.linkedin.com/in/samatahir/)
 
 ---
 
-> **Portfolio Note**
+> 🛡️ **Welcome to my cybersecurity portfolio**
 >
-> 🛡️ Welcome to my cybersecurity portfolio!
->
->I created this space to share the cybersecurity projects I’ve been working on and the skills I’m developing along the way.
+> A collection of hands-on projects, technical labs, and security documentation focused on threat detection, security investigations, and incident response.
 
-My projects cover SOC-style investigations, threat detection, log analysis, SIEM, MITRE ATT&CK, and incident reporting. I enjoy learning how these tools and techniques come together to help identify suspicious activity and respond to potential threats.
->
->
-
+My work explores SOC operations, log analysis, SIEM, MITRE ATT&CK, detection engineering, and incident reporting. I focus on applying security tools and techniques to investigate suspicious activity, identify potential threats, and document findings.
 
 ---
 
 ## 01 · SOC & Detection Engineering Projects
 
-| Project | Purpose | Stack | Status |
+| Project | Overview | Technologies | Status |
 |---|---|---|---|
-| [**SSH Brute-Force Detection & Incident Response**](https://github.com/samatahir/ssh-bruteforce-lab) | Simulated SSH brute-force attack, analyzed auth logs, mapped to MITRE ATT&CK, wrote Sigma detection rule and SOC-style incident report | Ubuntu · Hydra · Fail2Ban · Sigma | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
-| [**SIEM Home Lab — Multi-Attack Detection**](https://github.com/samatahir/siem-home-lab) | Built isolated Windows/Kali lab, ingested Sysmon + Event Logs into Splunk, wrote SPL detection queries for port scanning, brute force, and Mimikatz credential dumping | Splunk · Sysmon · VirtualBox · Kali Linux · Windows 10 | ![In Progress](https://img.shields.io/badge/In_Progress-e3a008?style=flat-square) |
-| [**SOC Detection Engineering Exercise — Deloitte MXDR**](https://github.com/samatahir/deloitte-mxdr-detection-exercise) | Independent exercise targeting Deloitte's CrowdStrike Falcon Next-Gen SIEM environment — 3 threat scenarios, SPL detection queries, and alert tuning guidance | CrowdStrike Falcon · SPL · MITRE ATT&CK | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
-| **Phishing Email Analysis Lab** | Analyze real-world phishing samples, extract IOCs, trace headers, sandbox URLs, document findings | PhishTank · VirusTotal · Email Headers | ![Queued](https://img.shields.io/badge/Queued-888888?style=flat-square) |
-| **Threat Intelligence Report — APT28** | Research publicly documented TTPs of a real threat actor, map to MITRE ATT&CK, produce a structured threat intel brief | MITRE ATT&CK · OSINT · Threat Intel | ![Queued](https://img.shields.io/badge/Queued-888888?style=flat-square) |
-
-> **Focus area:** Blue team operations: monitoring, detection, investigation,
-> and documentation. Building the analytical habits and technical skills a Tier 1
-> SOC analyst uses every day: reading logs, writing detection rules, mapping
-> attacker behavior to frameworks, and clear incident reports.
+| [**SSH Brute-Force Detection & Incident Response**](https://github.com/samatahir/ssh-bruteforce-lab) | Simulated an SSH brute-force attack, analyzed authentication logs, mapped activity to MITRE ATT&CK, developed a Sigma detection rule, and documented findings in a SOC-style incident report. | Ubuntu · Hydra · Fail2Ban · Sigma | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
+| [**SIEM Home Lab — Multi-Attack Detection**](https://github.com/samatahir/siem-home-lab) | Built an isolated Windows and Kali Linux lab, ingested Sysmon and Windows Event Logs into Splunk, and developed SPL queries to investigate port scanning, brute-force attempts, and simulated credential-dumping activity. | Splunk · Sysmon · VirtualBox · Kali Linux · Windows 10 | ![In Progress](https://img.shields.io/badge/In_Progress-e3a008?style=flat-square) |
+| [**SOC Detection Engineering Exercise — Deloitte MXDR**](https://github.com/samatahir/deloitte-mxdr-detection-exercise) | Completed an independent detection engineering exercise involving three threat scenarios, SPL detection queries, and alert-tuning recommendations for a CrowdStrike Falcon Next-Gen SIEM environment. | CrowdStrike Falcon · SPL · MITRE ATT&CK | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
+| **Phishing Email Analysis Lab** | Planned investigation of phishing emails, including header analysis, indicator extraction, URL analysis, and documentation of findings. | Email Headers · VirusTotal · PhishTank | ![Planned](https://img.shields.io/badge/Planned-888888?style=flat-square) |
+| **Threat Intelligence Report — APT28** | Planned research into publicly documented adversary tactics, techniques, and procedures, with MITRE ATT&CK mapping and a structured threat intelligence report. | OSINT · MITRE ATT&CK · Threat Intelligence | ![Planned](https://img.shields.io/badge/Planned-888888?style=flat-square) |
 
 ---
 
-## 02 · Security Documentation
+## 02 · IT Infrastructure & Identity Management
 
-| Document | Focus |
+| Project | Overview | Technologies | Status |
+|---|---|---|---|
+| **Active Directory Lab — Azure Domain Environment** | Configured a Windows Server domain controller and Windows client in Azure, covering DNS, domain joining, organizational units, user and group management, Remote Desktop access, and PowerShell-based user provisioning. | Microsoft Azure · Active Directory · Windows Server 2022 · Windows 10 · PowerShell | ![Update Status](https://img.shields.io/badge/Update_Status-888888?style=flat-square) |
+
+---
+
+## 03 · Security Documentation
+
+| Resource | Description |
 |---|---|
-| [Sigma Detection Rules](https://github.com/samatahir/sigma-rules) | Custom rules for SSH brute force, Office macro execution, LSASS access |
-| [Incident Report — SSH Brute Force](https://github.com/samatahir/ssh-bruteforce-lab/blob/main/incident-report.md) | Full SOC-style report: IOCs, timeline, MITRE mapping, remediation |
-| [SOC Detection Exercise — Deloitte MXDR](https://github.com/samatahir/deloitte-mxdr-detection-exercise) | Detection engineering writeup for CrowdStrike Falcon Next-Gen SIEM |
+| [**Sigma Detection Rules**](https://github.com/samatahir/sigma-rules) | Detection rules covering SSH brute-force activity, Office macro execution, and LSASS access. |
+| [**SSH Brute-Force Incident Report**](https://github.com/samatahir/ssh-bruteforce-lab/blob/main/incident-report.md) | SOC-style incident report documenting indicators of compromise, event timelines, MITRE ATT&CK mapping, and remediation recommendations. |
+| [**Deloitte MXDR Detection Exercise**](https://github.com/samatahir/deloitte-mxdr-detection-exercise) | Detection engineering write-up featuring threat scenarios, SPL queries, and alert-tuning recommendations. |
 
 ---
 
-## 03 · Certifications
+## 04 · Certifications
 
 **Earned**
 
-![Security+](https://img.shields.io/badge/CompTIA_Security%2B_(SY0--701)-red?style=flat-square)
-![Google Cyber](https://img.shields.io/badge/Google_Cybersecurity_Professional-4285F4?style=flat-square&logo=google&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_AZ--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![IBM](https://img.shields.io/badge/IBM_Cyber_Threat_Intelligence-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security%2B-red?style=flat-square)
+![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity_Professional-4285F4?style=flat-square&logo=google&logoColor=white)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure AZ-900](https://img.shields.io/badge/Azure_AZ--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![IBM Cyber Threat Intelligence](https://img.shields.io/badge/IBM_Cyber_Threat_Intelligence-052FAD?style=flat-square&logo=ibm&logoColor=white)
 
 **In Progress**
 
-![CISSP](https://img.shields.io/badge/CISSP-queued-888888?style=flat-square)
+![CISSP](https://img.shields.io/badge/CISSP-In_Progress-888888?style=flat-square)
 
 ---
 
-[Connect on LinkedIn](https://linkedin.com/in/samatahir/)
+## Areas of Focus
+
+- **Security Operations:** Log analysis, alert triage, and incident investigation
+- **Detection Engineering:** Sigma rules, SPL queries, and detection logic
+- **Threat Analysis:** MITRE ATT&CK mapping, indicators of compromise, and threat intelligence
+- **IT Infrastructure:** Active Directory, Windows administration, DNS, and PowerShell
+- **Incident Response:** Documentation, investigation workflows, and remediation recommendations
+
+---
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/samatahir/)
