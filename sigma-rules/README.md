@@ -10,7 +10,7 @@ In this repository contains Sigma rules for identifying suspicious activity in l
 
 **Objective:** Identify repeated SSH authentication failures that may indicate a brute-force attack.
 
-- **Log source:** Linux authentication logs
+- **Log source:** Linux authentication logs.
 - **Detection logic:** Searches for failed SSH login attempts that may indicate password-guessing activity.
 - **MITRE ATT&CK:** [T1110.001 — Password Guessing](https://attack.mitre.org/techniques/T1110/001/)
 - **Investigation:** Review source IP addresses, timestamps, targeted accounts, and successful logins following repeated failures.
@@ -36,10 +36,10 @@ In this repository contains Sigma rules for identifying suspicious activity in l
 ## Technologies & Frameworks
 
 - **Sigma:** It is a standard format for writing security detection rules that can be used across different SIEM platforms.
-- **Linux Authentication Logs:** SSH authentication monitoring
-- **Windows Event Logs:** Windows security and process activity
+- **Linux Authentication Logs:** SSH authentication monitoring.
+- **Windows Event Logs:** Windows security and process activity.
 - **Sysmon:** It records activity on Windows systems to help detect suspicious behavior.
-- **MITRE ATT&CK:** Classification of adversary tactics and techniques
+- **MITRE ATT&CK:** Classification of adversary tactics & techniques.
 
 ## Repository Structure
 
@@ -54,9 +54,9 @@ sigma-rules/
 
 ## Testing & Validation
 
-Each rule should be evaluated against its intended log source to verify field mappings, detection conditions, and expected results. Testing should include relevant suspicious activity and legitimate behavior to identify potential false positives.
+Rules should be tested with relevant logs to make sure they detect suspicious activity and avoid unnecessary alerts.
 
-Sigma rules may require backend-specific field mappings or conversion before use in a SIEM such as Splunk or Microsoft Sentinel.
+Sigma rules may need adjustments or conversion to work properly in SIEM tools like Splunk or Microsoft Sentinel.
 
 ## Limitations
 
@@ -65,4 +65,4 @@ These rules help flag suspicious activity but don't automatically confirm an att
 
 ## Purpose
 
-In this project I am focusinh on creating detection rules, analyzing logs, mapping suspicious activity to MITRE ATT&CK, and exploring how these techniques are used to detect and investigate potential threats.
+In this project I am focusing on creating detection rules, analyzing logs, mapping suspicious activity to MITRE ATT&CK, and exploring how these techniques are used to detect and investigate potential threats.
