@@ -1,5 +1,5 @@
 # Sama Tahir
-*Cybersecurity Analyst | Incident Response*
+*Cybersecurity | Incident Response*
 
 ---
 
@@ -18,7 +18,7 @@
 | [**SIEM Home Lab — Multi-Attack Detection**](https://github.com/samatahir/siem-home-lab) | Built an isolated Windows and Kali Linux lab, ingested Sysmon and Windows Event Logs into Splunk, and developed detections for multiple attack paths. | Splunk · Sysmon · Windows Event Logs · Kali Linux · Detection Engineering | ![Completed](https://img.shields.io/badge/Completed-brightgreen?style=flat-square) |
 | [**SOC Detection Engineering Exercise — Deloitte MXDR**](https://github.com/samatahir/deloitte-mxdr-detection-exercise) | Completed an independent detection engineering exercise involving threat scenarios, log analysis, and alert tuning across multiple security signals. | Splunk · Detection Logic · Threat Hunting · SOC Operations | ![Completed](https://img.shields.io/badge/Completed-brightgreen?style=flat-square) |
 | **Phishing Email Analysis Lab** | Queued investigation of phishing emails, including header analysis, indicator extraction, URL analysis, and documentation of findings. | Email Headers · VirusTotal · URL Analysis · Threat Intel | ![Queued](https://img.shields.io/badge/Queued-lightgrey?style=flat-square) |
-| **Threat Intelligence Report — APT28** | Queued research into publicly documented adversary tactics, techniques, and procedures, with MITRE ATT&CK mapping and a structured threat intelligence report. | MITRE ATT&CK · Threat Intelligence · Research · Reporting | ![Queued](https://img.shields.io/badge/Queued-lightgrey?style=flat-square) |
+| **Threat Intelligence Report — APT28** | Researching APT28’s tactics and techniques using MITRE ATT&CK and documenting the findings in a threat report. | MITRE ATT&CK · Threat Intelligence · Research · Reporting | ![Queued](https://img.shields.io/badge/Queued-lightgrey?style=flat-square) |
 
 ---
 
