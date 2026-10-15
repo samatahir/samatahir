@@ -25,7 +25,7 @@
 
 | Project | Overview | Technologies | Status |
 |---|---|---|---|
-| [**Active Directory Lab — Azure Domain Environment**] | Configured a Windows Server domain controller and Windows client in Azure, covering DNS, domain joining, organizational units, user and group administration, and basic identity operations. | Active Directory · Azure · Windows Server · PowerShell · DNS | ![In Progress](https://img.shields.io/badge/In%20Progress-yellow?style=flat-square) |
+| **Active Directory Lab — Azure Domain Environment** | Configured a Windows Server domain controller and Windows client in Azure, covering DNS, domain joining, organizational units, user and group administration, and basic identity operations. | Active Directory · Azure · Windows Server · PowerShell · DNS | ![In Progress](https://img.shields.io/badge/In%20Progress-yellow?style=flat-square) |
 
 ---
 
