@@ -8,12 +8,13 @@ https://www.linkedin.com/in/samatahir/
 
 > **Portfolio Note**
 >
-> The projects in this portfolio simulate real-world SOC analyst workflows—
-> from initial alert triage through full incident documentation.
+> 🛡️ Welcome to my cybersecurity portfolio!
 >
-> Each of my project focuses on practical blue team skills: threat detection, log
-> analysis, SIEM engineering, MITRE ATT&CK mapping, and SOC-style incident
-> reporting. The goal is to demonstrate how I would investigate,
+>I created this space to share the cybersecurity projects I’ve been working on and the skills I’m developing along the way.
+
+My projects cover SOC-style investigations, threat detection, log analysis, SIEM, MITRE ATT&CK, and incident reporting. I enjoy learning how these tools and techniques come together to help identify suspicious activity and respond to potential threats.
+>
+>The goal is to demonstrate how I would investigate,
 > detect,and document security events in enterprise environments.
 
 
