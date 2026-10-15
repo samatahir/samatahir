@@ -29,7 +29,7 @@ My projects cover SOC-style investigations, threat detection, log analysis, SIEM
 | **Phishing Email Analysis Lab** | Analyze real-world phishing samples, extract IOCs, trace headers, sandbox URLs, document findings | PhishTank · VirusTotal · Email Headers | ![Queued](https://img.shields.io/badge/Queued-888888?style=flat-square) |
 | **Threat Intelligence Report — APT28** | Research publicly documented TTPs of a real threat actor, map to MITRE ATT&CK, produce a structured threat intel brief | MITRE ATT&CK · OSINT · Threat Intel | ![Queued](https://img.shields.io/badge/Queued-888888?style=flat-square) |
 
-> **Focus area:** Blue team operations — monitoring, detection, investigation,
+> **Focus area:** Blue team operations: monitoring, detection, investigation,
 > and documentation. Building the analytical habits and technical skills a Tier 1
 > SOC analyst uses every day: reading logs, writing detection rules, mapping
 > attacker behavior to frameworks, and clear incident reports.
