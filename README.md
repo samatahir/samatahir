@@ -14,11 +14,11 @@
 
 | Project | Overview | Technologies | Status |
 |---|---|---|---|
-| [**SSH Brute-Force Detection & Incident Response**](https://github.com/samatahir/SSH-bruteforce-lab) | Simulated an SSH brute-force attack, analyzed authentication logs, mapped the activity to MITRE ATT&CK, and documented a SOC-style incident response investigation. | Ubuntu · Hydra · Fail2Ban · Sigma · MITRE ATT&CK | Complete |
-| [**SIEM Home Lab — Multi-Attack Detection**](https://github.com/samatahir/siem-home-lab) | Built an isolated Windows and Kali Linux lab, ingested Sysmon and Windows Event Logs into Splunk, and tested multi-attack detection workflows. | Splunk · Sysmon · Windows Event Logs · Kali Linux · MITRE ATT&CK | In Progress |
-| [**Sigma Detection Rules**](https://github.com/samatahir/Sigma-Rules) | Created Sigma rules for SSH brute-force activity, suspicious Office macro execution, and LSASS credential access detection. | Sigma · YAML · Windows Security Logs · Sysmon · MITRE ATT&CK | Complete |
-| [**Phishing Email Analysis Lab**](https://github.com/samatahir) | Reviewed phishing indicators, examined email headers and malicious URLs, and documented investigation findings and triage steps. | Email Headers · URL Analysis · Threat Intel · Email Security | In Progress |
-| [**Threat Intelligence Report — APT28**](https://github.com/samatahir) | Researched APT28 tactics and procedures using MITRE ATT&CK and documented findings in a structured intelligence brief. | MITRE ATT&CK · Threat Intelligence · OSINT · Reporting | In Progress |
+| [**SSH Brute-Force Detection & Incident Response**](https://github.com/samatahir/SSH-bruteforce-lab) | Simulated an SSH brute-force attack, analyzed authentication logs, mapped the activity to MITRE ATT&CK, and documented a SOC-style incident response investigation. | Ubuntu · Hydra · Fail2Ban · Sigma · MITRE ATT&CK | ![Complete](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square) |
+| [**SIEM Home Lab — Multi-Attack Detection**](https://github.com/samatahir/siem-home-lab) | Built an isolated Windows and Kali Linux lab, ingested Sysmon and Windows Event Logs into Splunk, and tested multi-attack detection workflows. | Splunk · Sysmon · Windows Event Logs · Kali Linux · MITRE ATT&CK | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square) |
+| [**Sigma Detection Rules**](https://github.com/samatahir/Sigma-Rules) | Created Sigma rules for SSH brute-force activity, suspicious Office macro execution, and LSASS credential access detection. | Sigma · YAML · Windows Security Logs · Sysmon · MITRE ATT&CK | ![Complete](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square) |
+| [**Phishing Email Analysis Lab**](https://github.com/samatahir) | Reviewed phishing indicators, examined email headers and malicious URLs, and documented investigation findings and triage steps. | Email Headers · URL Analysis · Threat Intel · Email Security | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square) |
+| [**Threat Intelligence Report — APT28**](https://github.com/samatahir) | Researched APT28 tactics and procedures using MITRE ATT&CK and documented findings in a structured intelligence brief. | MITRE ATT&CK · Threat Intelligence · OSINT · Reporting | ![In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square) |
 
 ---
 
@@ -26,7 +26,7 @@
 
 | Project | Overview | Technologies | Status |
 |---|---|---|---|
-| [**Active Directory Lab — Azure Domain Environment**](https://github.com/samatahir/active-directory-lab) | Configured a Windows Server domain controller, joined a Windows client to the domain, created users and OUs, and validated authentication flow in Azure. | Microsoft Azure · Active Directory Domain Services · DNS · PowerShell · Remote Desktop | Complete |
+| [**Active Directory Lab — Azure Domain Environment**](https://github.com/samatahir/active-directory-lab) | Configured a Windows Server domain controller, joined a Windows client to the domain, created users and OUs, and validated authentication flow in Azure. | Microsoft Azure · Active Directory Domain Services · DNS · PowerShell · Remote Desktop | ![Complete](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square) |
 
 ---
 
