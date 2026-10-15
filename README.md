@@ -14,10 +14,10 @@
 
 | Project | Overview | Technologies | Status |
 |---|---|---|---|
-| [**SSH Brute-Force Detection & Incident Response**](https://github.com/samatahir/ssh-bruteforce-lab) | Simulated an SSH brute-force attack, analyzed authentication logs, mapped activity to MITRE ATT&CK, and documented findings for investigation and detection. | SSH · Linux Logs · Cybersecurity · Incident Response | ![In Progress](https://img.shields.io/badge/In%20Progress-yellow?style=flat-square) |
-| [**SIEM Home Lab — Multi-Attack Detection**](https://github.com/samatahir/siem-home-lab) | Built an isolated Windows and Kali Linux lab, ingested Sysmon and Windows Event Logs into Splunk, and developed detections for multiple attack scenarios. | Splunk · Sysmon · Windows Event Logs · Detection Engineering | ![In Progress](https://img.shields.io/badge/In%20Progress-yellow?style=flat-square) |
-| **Phishing Email Analysis Lab** | Queue investigation of phishing emails, including header analysis, indicator extraction, URL analysis, and documentation of findings. | Email Headers · VirusTotal · URL Analysis · Threat Intel | ![Queued](https://img.shields.io/badge/Queued-lightgrey?style=flat-square) |
-| [**Threat Intelligence Report — APT28**] | Researching APT28’s tactics and techniques using MITRE ATT&CK and documenting the findings in a threat report. | MITRE ATT&CK · Threat Intelligence · Research · Reporting | ![Queued](https://img.shields.io/badge/Queued-lightgrey?style=flat-square) |
+| [**SSH Brute-Force Detection & Incident Response**](https://github.com/samatahir/ssh-bruteforce-lab) | Simulated an SSH brute-force attack, analyzed authentication logs, mapped activity to MITRE ATT[...] |  |  |
+| [**SIEM Home Lab — Multi-Attack Detection**](https://github.com/samatahir/siem-home-lab) | Built an isolated Windows and Kali Linux lab, ingested Sysmon and Windows Event Logs into Splunk, and[...] |  |  |
+| **Phishing Email Analysis Lab** | Queue investigation of phishing emails, including header analysis, indicator extraction, URL analysis, and documentation of findings. | Email Headers · VirusTo[...] |  |
+| [**Threat Intelligence Report — APT28**] | Researching APT28’s tactics and techniques using MITRE ATT&CK and documenting the findings in a threat report. | MITRE ATT&CK · Threat Intelligenc[...] |  |
 
 ---
 
@@ -34,7 +34,7 @@
 | Resource | Description |
 |---|---|
 | [**Sigma Detection Rules**](https://github.com/samatahir/sigma-rules) | Detection rules covering SSH brute-force activity, Office macro execution, and LSASS access. |
-| [**SSH Brute-Force Incident Report**](https://github.com/samatahir/ssh-bruteforce-lab/blob/main/incident-report.md) | SOC-style incident report documenting indicators of compromise, event timelines, and remediation actions. |
+| [**SSH Brute-Force Incident Report**](https://github.com/samatahir/ssh-bruteforce-lab/blob/main/incident-report.md) | SOC-style incident report documenting indicators of compromise, event timeli[...] |
 
 ---
 
