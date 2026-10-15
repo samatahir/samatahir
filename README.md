@@ -1,5 +1,5 @@
 # Sama Tahir
-*Cybersecurity Analyst | Incident Response*
+*Cybersecurity| Incident Response*
 
 ---
 
