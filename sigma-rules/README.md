@@ -60,10 +60,9 @@ Sigma rules may require backend-specific field mappings or conversion before use
 
 ## Limitations
 
-These rules identify patterns associated with potentially suspicious behavior; they do not independently confirm malicious activity. Detection effectiveness depends on available telemetry, rule logic, and logging configuration. Threshold-based detection, exclusions, and alert tuning may be necessary for operational use.
+
+These rules help flag suspicious activity but don't automatically confirm an attack. Their effectiveness depends on the logs available and how each rule is configured. Some rules may also need adjustments to reduce false positives and improve detection accuracy.
 
 ## Purpose
 
-This project demonstrates the development and documentation of detection logic, log analysis, MITRE ATT&CK mapping, and investigation considerations relevant to security operations and detection engineering.
-
-**Disclaimer:** These rules are intended for educational and defensive security purposes. Validate them in a controlled environment before deploying them in production.
+In this project I am focusinh on creating detection rules, analyzing logs, mapping suspicious activity to MITRE ATT&CK, and exploring how these techniques are used to detect and investigate potential threats.
