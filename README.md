@@ -14,11 +14,11 @@
 
 | Project | Overview | Technologies | Status |
 |---|---|---|---|
-| [**SSH Brute-Force Detection & Incident Response**](https://github.com/samatahir/ssh-bruteforce-lab) | Simulated an SSH brute-force attack, analyzed authentication logs, mapped activity to MITRE[...] | Splunk · Sigma · Linux · SSH · MITRE ATT&CK | Completed |
-| [**SIEM Home Lab — Multi-Attack Detection**](https://github.com/samatahir/siem-home-lab) | Built an isolated Windows and Kali Linux lab, ingested Sysmon and Windows Event Logs into Splunk, and[...] | Splunk · Sysmon · Windows Event Logs · Kali Linux | Completed |
-| [**SOC Detection Engineering Exercise — Deloitte MXDR**](https://github.com/samatahir/deloitte-mxdr-detection-exercise) | Completed an independent detection engineering exercise involving three[...] | Splunk · KQL · MITRE ATT&CK · Detection Logic | Completed |
-| **Phishing Email Analysis Lab** | Queued investigation of phishing emails, including header analysis, indicator extraction, URL analysis, and documentation of findings. | Email Headers · VirusTotal · URL Analysis | Queued |
-| **Threat Intelligence Report — APT28** | Queued research into publicly documented adversary tactics, techniques, and procedures, with MITRE ATT&CK mapping and a structured threat intelligence report. | ATT&CK · Threat Intelligence · OSINT | Queued |
+| [**SSH Brute-Force Detection & Incident Response**](https://github.com/samatahir/ssh-bruteforce-lab) | Simulated an SSH brute-force attack, analyzed authentication logs, mapped activity to MITRE ATT&CK, and documented containment and remediation steps. | Splunk · Windows Event Logs · Sysmon · MITRE ATT&CK | Queued |
+| [**SIEM Home Lab — Multi-Attack Detection**](https://github.com/samatahir/siem-home-lab) | Built an isolated Windows and Kali Linux lab, ingested Sysmon and Windows Event Logs into Splunk, and created detections for multiple simulated attack paths. | Splunk · Sysmon · Windows Logs · Linux · Detection Engineering | Queued |
+| [**SOC Detection Engineering Exercise — Deloitte MXDR**](https://github.com/samatahir/deloitte-mxdr-detection-exercise) | Completed an independent detection engineering exercise involving threat scenarios, log analysis, dashboard tuning, and alert validation. | Splunk · Detection Engineering · SOC Operations · Threat Detection | Queued |
+| **Phishing Email Analysis Lab** | Queued investigation of phishing emails, including header analysis, indicator extraction, URL analysis, and documentation of findings. | Email Headers · VirusTotal · Threat Intelligence | Queued |
+| **Threat Intelligence Report — APT28** | Queued research into publicly documented adversary tactics, techniques, and procedures, with MITRE ATT&CK mapping and a structured threat intelligence report. | MITRE ATT&CK · Threat Intel · Research · Reporting | Queued |
 
 ---
 
@@ -26,7 +26,7 @@
 
 | Project | Overview | Technologies | Status |
 |---|---|---|---|
-| **Active Directory Lab — Azure Domain Environment** | Configured a Windows Server domain controller and Windows client in Azure, covering DNS, domain joining, organizational units, user and group management, and troubleshooting. | Azure · Active Directory · Windows Server · PowerShell | In Progress |
+| **Active Directory Lab — Azure Domain Environment** | Configured a Windows Server domain controller and Windows client in Azure, covering DNS, domain joining, organizational units, user and group management, and role-based access. | Active Directory · Azure · Windows Server · DNS · PowerShell | Queued |
 
 ---
 
@@ -35,7 +35,7 @@
 | Resource | Description |
 |---|---|
 | [**Sigma Detection Rules**](https://github.com/samatahir/sigma-rules) | Detection rules covering SSH brute-force activity, Office macro execution, and LSASS access. |
-| [**SSH Brute-Force Incident Report**](https://github.com/samatahir/ssh-bruteforce-lab/blob/main/incident-report.md) | SOC-style incident report documenting indicators of compromise, event timelines, attack flow, and recommended remediation steps. |
+| [**SSH Brute-Force Incident Report**](https://github.com/samatahir/ssh-bruteforce-lab/blob/main/incident-report.md) | SOC-style incident report documenting indicators of compromise, event timelines, and response actions. |
 | [**Deloitte MXDR Detection Exercise**](https://github.com/samatahir/deloitte-mxdr-detection-exercise) | Detection engineering write-up featuring threat scenarios, SPL queries, and alert-tuning recommendations. |
 
 ---
