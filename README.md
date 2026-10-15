@@ -5,9 +5,8 @@
 
 > 🛡️ ** Welcome to my cybersecurity portfolio 👋 **
 >
-> A collection of hands-on projects, technical labs, and security documentation focused on threat detection, security investigations, and incident response.
+> My work explores hands-on cybersecurity projects & technical labs focused on threat detection, SIEM, security investigations, and incident response.
 
-My work explores SOC operations, log analysis, SIEM, MITRE ATT&CK, detection engineering, and incident reporting. I focus on applying security tools and techniques to investigate suspicious activity, identify potential threats, and document findings.
 
 ---
 
