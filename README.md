@@ -32,7 +32,7 @@ My projects cover SOC-style investigations, threat detection, log analysis, SIEM
 > **Focus area:** Blue team operations — monitoring, detection, investigation,
 > and documentation. Building the analytical habits and technical skills a Tier 1
 > SOC analyst uses every day: reading logs, writing detection rules, mapping
-> attacker behavior to frameworks, and producing clear incident reports.
+> attacker behavior to frameworks, and clear incident reports.
 
 ---
 
