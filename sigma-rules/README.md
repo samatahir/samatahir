@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains Sigma detection rules designed to identify suspicious activity in system logs and support security monitoring, threat detection, and incident investigation. The rules focus on authentication attacks, suspicious process execution, and potential credential access.
+In this repository contains Sigma rules for identifying suspicious activity in logs, including login attacks, unusual process activity, and potential credential access.
 
 ## Detection Rules
 
