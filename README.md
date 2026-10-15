@@ -14,8 +14,8 @@
 
 | Project | Overview | Technologies | Status |
 |---|---|---|---|
-| [**SSH Brute-Force Detection & Incident Response**](https://github.com/samatahir/ssh-bruteforce-lab) | Simulated an SSH brute-force attack, analyzed authentication logs, mapped activity to MITRE ATT&CK, and documented the investigation. | Linux Logs · SSH · Splunk · SIEM · MITRE ATT&CK | ![Completed](https://img.shields.io/badge/Completed-brightgreen?style=flat-square) |
-| [**SIEM Home Lab — Multi-Attack Detection**](https://github.com/samatahir/siem-home-lab) | Built an isolated Windows and Kali Linux lab, ingested Sysmon and Windows Event Logs into Splunk, and developed detections for multiple attack paths. | Splunk · Sysmon · Windows Event Logs · Kali Linux · Detection Engineering | ![Completed](https://img.shields.io/badge/Completed-brightgreen?style=flat-square) |
+| [**SSH Brute-Force Detection & Incident Response**](https://github.com/samatahir/ssh-bruteforce-lab) | Simulated an SSH brute-force attack, analyzed authentication logs, mapped activity to MITRE ATT&CK, and documented findings for investigation and detection. | SSH · Linux Logs · Cybersecurity · Incident Response | ![In Progress](https://img.shields.io/badge/In%20Progress-yellow?style=flat-square) |
+| [**SIEM Home Lab — Multi-Attack Detection**](https://github.com/samatahir/siem-home-lab) | Built an isolated Windows and Kali Linux lab, ingested Sysmon and Windows Event Logs into Splunk, and developed detections for multiple attack scenarios. | Splunk · Sysmon · Windows Event Logs · Detection Engineering | ![In Progress](https://img.shields.io/badge/In%20Progress-yellow?style=flat-square) |
 | **Phishing Email Analysis Lab** | Queue investigation of phishing emails, including header analysis, indicator extraction, URL analysis, and documentation of findings. | Email Headers · VirusTotal · URL Analysis · Threat Intel | ![Queued](https://img.shields.io/badge/Queued-lightgrey?style=flat-square) |
 | [**Threat Intelligence Report — APT28**] | Researching APT28’s tactics and techniques using MITRE ATT&CK and documenting the findings in a threat report. | MITRE ATT&CK · Threat Intelligence · Research · Reporting | ![Queued](https://img.shields.io/badge/Queued-lightgrey?style=flat-square) |
 
@@ -25,7 +25,7 @@
 
 | Project | Overview | Technologies | Status |
 |---|---|---|---|
-| **Active Directory Lab — Azure Domain Environment** | Configured a Windows Server domain controller and Windows client in Azure, covering DNS, domain joining, organizational units, user and group administration, and basic identity operations. | Active Directory · Azure · Windows Server · PowerShell · DNS | ![In Progress](https://img.shields.io/badge/In%20Progress-yellow?style=flat-square) |
+| [**Active Directory Lab — Azure Domain Environment**](labs/active-directory-lab/README.md) | Configured a Windows Server domain controller and Windows client in Azure, covering DNS, domain joining, organizational units, user and group administration, and basic identity operations. | Active Directory · Azure · Windows Server · PowerShell · DNS | ![In Progress](https://img.shields.io/badge/In%20Progress-yellow?style=flat-square) |
 
 ---
 
