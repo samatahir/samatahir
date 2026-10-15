@@ -14,11 +14,11 @@
 
 | Project | Overview | Technologies | Status |
 |---|---|---|---|
-| [**SSH Brute-Force Detection & Incident Response**](https://github.com/samatahir/ssh-bruteforce-lab) | Simulated an SSH brute-force attack, analyzed authentication logs, mapped activity to MITRE ATT&CK, and documented the investigation. | Linux Logs · SSH · Splunk · SIEM · MITRE ATT&CK | Completed |
-| [**SIEM Home Lab — Multi-Attack Detection**](https://github.com/samatahir/siem-home-lab) | Built an isolated Windows and Kali Linux lab, ingested Sysmon and Windows Event Logs into Splunk, and developed detections for multiple attack paths. | Splunk · Sysmon · Windows Event Logs · Kali Linux · Detection Engineering | Completed |
-| [**SOC Detection Engineering Exercise — Deloitte MXDR**](https://github.com/samatahir/deloitte-mxdr-detection-exercise) | Completed an independent detection engineering exercise involving threat scenarios, log analysis, and alert tuning across multiple security signals. | Splunk · Detection Logic · Threat Hunting · SOC Operations | Completed |
-| **Phishing Email Analysis Lab** | Queued investigation of phishing emails, including header analysis, indicator extraction, URL analysis, and documentation of findings. | Email Headers · VirusTotal · URL Analysis · Threat Intel | Queued |
-| **Threat Intelligence Report — APT28** | Queued research into publicly documented adversary tactics, techniques, and procedures, with MITRE ATT&CK mapping and a structured threat intelligence report. | MITRE ATT&CK · Threat Intelligence · Research · Reporting | Queued |
+| [**SSH Brute-Force Detection & Incident Response**](https://github.com/samatahir/ssh-bruteforce-lab) | Simulated an SSH brute-force attack, analyzed authentication logs, mapped activity to MITRE ATT&CK, and documented the investigation. | Linux Logs · SSH · Splunk · SIEM · MITRE ATT&CK | ![Status - Completed](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square) |
+| [**SIEM Home Lab — Multi-Attack Detection**](https://github.com/samatahir/siem-home-lab) | Built an isolated Windows and Kali Linux lab, ingested Sysmon and Windows Event Logs into Splunk, and developed detections for multiple attack paths. | Splunk · Sysmon · Windows Event Logs · Kali Linux · Detection Engineering | ![Status - Completed](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square) |
+| [**SOC Detection Engineering Exercise — Deloitte MXDR**](https://github.com/samatahir/deloitte-mxdr-detection-exercise) | Completed an independent detection engineering exercise involving threat scenarios, log analysis, and alert tuning across multiple security signals. | Splunk · Detection Logic · Threat Hunting · SOC Operations | ![Status - Completed](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square) |
+| **Phishing Email Analysis Lab** | Queued investigation of phishing emails, including header analysis, indicator extraction, URL analysis, and documentation of findings. | Email Headers · VirusTotal · URL Analysis · Threat Intel | ![Status - Queued](https://img.shields.io/badge/Status-Queued-lightgrey?style=flat-square) |
+| **Threat Intelligence Report — APT28** | Queued research into publicly documented adversary tactics, techniques, and procedures, with MITRE ATT&CK mapping and a structured threat intelligence report. | MITRE ATT&CK · Threat Intelligence · Research · Reporting | ![Status - Queued](https://img.shields.io/badge/Status-Queued-lightgrey?style=flat-square) |
 
 ---
 
@@ -26,7 +26,7 @@
 
 | Project | Overview | Technologies | Status |
 |---|---|---|---|
-| **Active Directory Lab — Azure Domain Environment** | Configured a Windows Server domain controller and Windows client in Azure, covering DNS, domain joining, organizational units, user and group administration, and basic identity operations. | Active Directory · Azure · Windows Server · PowerShell · DNS | In Progress |
+| **Active Directory Lab — Azure Domain Environment** | Configured a Windows Server domain controller and Windows client in Azure, covering DNS, domain joining, organizational units, user and group administration, and basic identity operations. | Active Directory · Azure · Windows Server · PowerShell · DNS | ![Status - In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square) |
 
 ---
 
