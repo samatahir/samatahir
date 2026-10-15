@@ -14,8 +14,7 @@ https://www.linkedin.com/in/samatahir/
 
 My projects cover SOC-style investigations, threat detection, log analysis, SIEM, MITRE ATT&CK, and incident reporting. I enjoy learning how these tools and techniques come together to help identify suspicious activity and respond to potential threats.
 >
->The goal is to demonstrate how I would investigate,
-> detect,and document security events in enterprise environments.
+>
 
 
 ---
