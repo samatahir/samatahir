@@ -35,7 +35,6 @@
 |---|---|
 | [**Sigma Detection Rules**](https://github.com/samatahir/sigma-rules) | Detection rules covering SSH brute-force activity, Office macro execution, and LSASS access. |
 | [**SSH Brute-Force Incident Report**](https://github.com/samatahir/ssh-bruteforce-lab/blob/main/incident-report.md) | SOC-style incident report documenting indicators of compromise, event timelines, and remediation actions. |
-| [**Deloitte MXDR Detection Exercise**](https://github.com/samatahir/deloitte-mxdr-detection-exercise) | Detection engineering write-up featuring threat scenarios, SPL queries, and alert-tuning recommendations. |
 
 ---
 
