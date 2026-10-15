@@ -3,7 +3,7 @@
 
 ---
 
-> 🛡️ **👋 Welcome to my cybersecurity portfolio**
+> 🛡️ ** Welcome to my cybersecurity portfolio 👋**
 >
 > A collection of hands-on projects, technical labs, and security documentation focused on threat detection, security investigations, and incident response.
 
