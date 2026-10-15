@@ -1,5 +1,5 @@
 # Sama Tahir
-*Cybersecurity| Incident Response*
+*Cybersecurity Analyst | Incident Response*
 
 ---
 
@@ -14,11 +14,11 @@
 
 | Project | Overview | Technologies | Status |
 |---|---|---|---|
-| [**SSH Brute-Force Detection & Incident Response**](https://github.com/samatahir/ssh-bruteforce-lab) | Simulated an SSH brute-force attack, analyzed authentication logs, mapped activity to MITRE ATT&CK, developed a Sigma detection rule, and documented findings in a SOC-style incident report. | Ubuntu · Hydra · Fail2Ban · Sigma | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
-| [**SIEM Home Lab — Multi-Attack Detection**](https://github.com/samatahir/siem-home-lab) | Built an isolated Windows and Kali Linux lab, ingested Sysmon and Windows Event Logs into Splunk, and developed SPL queries to investigate port scanning, brute-force attempts, and simulated credential-dumping activity. | Splunk · Sysmon · VirtualBox · Kali Linux · Windows 10 | ![In Progress](https://img.shields.io/badge/In_Progress-e3a008?style=flat-square) |
-| [**SOC Detection Engineering Exercise — Deloitte MXDR**](https://github.com/samatahir/deloitte-mxdr-detection-exercise) | Completed an independent detection engineering exercise involving three threat scenarios, SPL detection queries, and alert-tuning recommendations for a CrowdStrike Falcon Next-Gen SIEM environment. | CrowdStrike Falcon · SPL · MITRE ATT&CK | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
-| **Phishing Email Analysis Lab** | Planned investigation of phishing emails, including header analysis, indicator extraction, URL analysis, and documentation of findings. | Email Headers · VirusTotal · PhishTank | ![Planned](https://img.shields.io/badge/Planned-888888?style=flat-square) |
-| **Threat Intelligence Report — APT28** | Planned research into publicly documented adversary tactics, techniques, and procedures, with MITRE ATT&CK mapping and a structured threat intelligence report. | OSINT · MITRE ATT&CK · Threat Intelligence | ![Planned](https://img.shields.io/badge/Planned-888888?style=flat-square) |
+| [**SSH Brute-Force Detection & Incident Response**](https://github.com/samatahir/ssh-bruteforce-lab) | Simulated an SSH brute-force attack, analyzed authentication logs, mapped activity to MITRE[...] | Splunk · Sigma · Linux · SSH · MITRE ATT&CK | Completed |
+| [**SIEM Home Lab — Multi-Attack Detection**](https://github.com/samatahir/siem-home-lab) | Built an isolated Windows and Kali Linux lab, ingested Sysmon and Windows Event Logs into Splunk, and[...] | Splunk · Sysmon · Windows Event Logs · Kali Linux | Completed |
+| [**SOC Detection Engineering Exercise — Deloitte MXDR**](https://github.com/samatahir/deloitte-mxdr-detection-exercise) | Completed an independent detection engineering exercise involving three[...] | Splunk · KQL · MITRE ATT&CK · Detection Logic | Completed |
+| **Phishing Email Analysis Lab** | Queued investigation of phishing emails, including header analysis, indicator extraction, URL analysis, and documentation of findings. | Email Headers · VirusTotal · URL Analysis | Queued |
+| **Threat Intelligence Report — APT28** | Queued research into publicly documented adversary tactics, techniques, and procedures, with MITRE ATT&CK mapping and a structured threat intelligence report. | ATT&CK · Threat Intelligence · OSINT | Queued |
 
 ---
 
@@ -26,7 +26,7 @@
 
 | Project | Overview | Technologies | Status |
 |---|---|---|---|
-| **Active Directory Lab — Azure Domain Environment** | Configured a Windows Server domain controller and Windows client in Azure, covering DNS, domain joining, organizational units, user and group management, Remote Desktop access, and PowerShell-based user provisioning. | Microsoft Azure · Active Directory · Windows Server 2022 · Windows 10 · PowerShell | ![Update Status](https://img.shields.io/badge/Update_Status-888888?style=flat-square) |
+| **Active Directory Lab — Azure Domain Environment** | Configured a Windows Server domain controller and Windows client in Azure, covering DNS, domain joining, organizational units, user and group management, and troubleshooting. | Azure · Active Directory · Windows Server · PowerShell | In Progress |
 
 ---
 
@@ -35,7 +35,7 @@
 | Resource | Description |
 |---|---|
 | [**Sigma Detection Rules**](https://github.com/samatahir/sigma-rules) | Detection rules covering SSH brute-force activity, Office macro execution, and LSASS access. |
-| [**SSH Brute-Force Incident Report**](https://github.com/samatahir/ssh-bruteforce-lab/blob/main/incident-report.md) | SOC-style incident report documenting indicators of compromise, event timelines, MITRE ATT&CK mapping, and remediation recommendations. |
+| [**SSH Brute-Force Incident Report**](https://github.com/samatahir/ssh-bruteforce-lab/blob/main/incident-report.md) | SOC-style incident report documenting indicators of compromise, event timelines, attack flow, and recommended remediation steps. |
 | [**Deloitte MXDR Detection Exercise**](https://github.com/samatahir/deloitte-mxdr-detection-exercise) | Detection engineering write-up featuring threat scenarios, SPL queries, and alert-tuning recommendations. |
 
 ---
