@@ -1,8 +1,6 @@
 # Sama Tahir
 *Cybersecurity Analyst | Incident Response*
 
-[LinkedIn](https://www.linkedin.com/in/samatahir/)
-
 ---
 
 > 🛡️ **👋 Welcome to my cybersecurity portfolio**
