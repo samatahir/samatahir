@@ -35,10 +35,10 @@ In this repository contains Sigma rules for identifying suspicious activity in l
 
 ## Technologies & Frameworks
 
-- **Sigma:** Platform-independent detection rule format
+- **Sigma:** It is a standard format for writing security detection rules that can be used across different SIEM platforms.
 - **Linux Authentication Logs:** SSH authentication monitoring
 - **Windows Event Logs:** Windows security and process activity
-- **Sysmon:** Detailed endpoint telemetry for process creation and access events
+- **Sysmon:** It records activity on Windows systems to help detect suspicious behavior.
 - **MITRE ATT&CK:** Classification of adversary tactics and techniques
 
 ## Repository Structure
