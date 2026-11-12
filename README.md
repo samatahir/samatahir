@@ -5,7 +5,7 @@
 
 > 🛡️ ** Welcome to my cybersecurity portfolio 👋 **
 >
-> My work explores hands-on cybersecurity projects & technical labs focused on threat detection, SIEM, security investigations, and incident response.
+> My work explores hands-on cybersecurity projects & technical labs focused on threat detection, SIEM, and incident response.
 
 
 ---
